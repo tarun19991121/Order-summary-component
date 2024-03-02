@@ -17,7 +17,7 @@ body {
     background-image: url('./images/pattern-background-desktop.svg');
     background-repeat: no-repeat;
     background-size: contain;
-    background-position-y: -7.5rem;
+    background-position-y: -2.5rem;
     background-attachment: fixed;
     background-color: var(--Pale-blue);
     font-family: 'Red Hat Display', sans-serif;
@@ -36,7 +36,7 @@ button {
     border-radius: 0.6rem;
     box-sizing: content-box;
     letter-spacing: 0.15px;
-    box-shadow: 0 15px 15px hsla(245, 75%, 52%, 0.2);
+    box-shadow: 0 20px 20px hsla(245, 75%, 52%, 0.2);
 }
 button:hover {
     cursor: pointer;
@@ -78,7 +78,7 @@ span {
     text-align: center;
     margin: auto;
     border-radius: 1rem;
-    box-shadow: 0 20px 20px -10px hsla(245, 75%, 52%, 0.2);
+    box-shadow: 0 30px 30px -20px hsla(245, 75%, 52%, 0.2);
 }
 
 .plan-container {
